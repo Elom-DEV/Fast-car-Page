@@ -1,0 +1,65 @@
+.carousel-item img {
+  width: 1800px;
+  height: 600px;
+  object-fit: cover;
+}
+.carousel-inner {
+  width: 100%;
+  max-width: 1800px; 
+}
+
+.team-member img {
+  width: 195px;
+  height: 250px;
+  object-fit: cover;
+  border: 3px solid #ddd;
+  padding: 5px;
+}
+
+h2 {
+  font-weight: bold;
+  color: #333;
+}
+
+footer {
+  display: flex;
+  justify-content: space-between;
+  padding: 20px;
+  background-color: #f1f1f1;
+}
+
+
+.contact-info {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center; 
+  width: 40%; 
+  text-align: center; 
+}
+
+
+.contact-item {
+  margin-bottom: 10px;
+  font-size: 16px;
+}
+
+.contact-item i {
+  margin-right: 10px; 
+  color: #007bff;
+}
+
+
+#map {
+  width: 55%;
+  
+}
+
+
+.fas {
+  font-size: 20px; 
+}
+
+
+
+
